@@ -4,6 +4,10 @@
 [![GitLicense](https://gitlicense.com/badge/1technophile/OpenMQTTGateway)](https://gitlicense.com/license/1technophile/OpenMQTTGateway)
 
 Questions, support please don't open an issue and [click here](https://gitter.im/OpenMQTTGateway/Questions_support)
+# OpenMQTTGatewayNG
+this is an extension of OpenMQTTGateway.
+it is supporting 64Bit RF protocols with new MQTT topics so that
+not only remote controls but also weather sensors can be handled
 
 # OpenMQTTGateway
 [![](https://github.com/1technophile/OpenMQTTGateway/blob/master/img/OpenMQTTGateway.jpg)](https://github.com/1technophile/OpenMQTTGateway/wiki)
@@ -16,4 +20,3 @@ https://github.com/1technophile/OpenMQTTGateway/wiki
 
 A list of supported 433mhz devices is available [here](https://community.home-assistant.io/t/433tomqttto433-gateway-device-list/7819):  
 https://community.home-assistant.io/t/433tomqttto433-gateway-device-list/7819
-# OpenMQTTGatewayNG
